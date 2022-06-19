@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rrcov",
+    "oncran": true
+  },
+  {
+    "package": "rrcov3way",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rrcov"]
+	path = rrcov
+	url = https://github.com/valentint/rrcov
+	shallow = true
+	registered = true
+[submodule "rrcov3way"]
+	path = rrcov3way
+	url = https://github.com/valentint/rrcov3way
+	shallow = true
+	registered = true
