@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pcaPP"]
+	path = pcaPP
+	url = https://github.com/valentint/pcapp
+	shallow = true
+	registered = true
+[submodule "robust"]
+	path = robust
+	url = https://github.com/valentint/robust
+	shallow = true
+	registered = true
 [submodule "rrcov"]
 	path = rrcov
 	url = https://github.com/valentint/rrcov

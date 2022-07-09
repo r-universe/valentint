@@ -1,5 +1,13 @@
 [
   {
+    "package": "pcaPP",
+    "oncran": true
+  },
+  {
+    "package": "robust",
+    "oncran": true
+  },
+  {
     "package": "rrcov",
     "oncran": true
   },
