@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "rda",
+    "oncran": true
+  },
+  {
     "package": "robust",
     "oncran": true
   },
