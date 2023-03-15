@@ -1,10 +1,6 @@
 [
   {
-    "package": "pcaPP",
-    "oncran": true
-  },
-  {
-    "package": "rda",
+    "package": "rrcov",
     "oncran": true
   },
   {
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "rrcov",
+    "package": "pcaPP",
     "oncran": true
   },
   {
     "package": "rrcov3way",
+    "oncran": true
+  },
+  {
+    "package": "rda",
     "oncran": true
   }
 ]

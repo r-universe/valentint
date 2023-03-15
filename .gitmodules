@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "pcaPP"]
-	path = pcaPP
-	url = https://github.com/valentint/pcapp
-	shallow = true
-	registered = true
-[submodule "rda"]
-	path = rda
-	url = https://github.com/valentint/rda
+[submodule "rrcov"]
+	path = rrcov
+	url = https://github.com/valentint/rrcov
 	shallow = true
 	registered = true
 [submodule "robust"]
@@ -18,13 +13,18 @@
 	url = https://github.com/valentint/robust
 	shallow = true
 	registered = true
-[submodule "rrcov"]
-	path = rrcov
-	url = https://github.com/valentint/rrcov
+[submodule "pcaPP"]
+	path = pcaPP
+	url = https://github.com/valentint/pcapp
 	shallow = true
 	registered = true
 [submodule "rrcov3way"]
 	path = rrcov3way
 	url = https://github.com/valentint/rrcov3way
+	shallow = true
+	registered = true
+[submodule "rda"]
+	path = rda
+	url = https://github.com/valentint/rda
 	shallow = true
 	registered = true
