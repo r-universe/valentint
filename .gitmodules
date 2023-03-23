@@ -28,3 +28,28 @@
 	url = https://github.com/valentint/rrcov3way
 	shallow = true
 	registered = true
+[submodule "rrcovHD"]
+	path = rrcovHD
+	url = https://github.com/cran/rrcovHD
+	shallow = true
+	registered = true
+[submodule "rrcovNA"]
+	path = rrcovNA
+	url = https://github.com/cran/rrcovNA
+	shallow = true
+	registered = true
+[submodule "spls"]
+	path = spls
+	url = https://github.com/cran/spls
+	shallow = true
+	registered = true
+[submodule "tclust"]
+	path = tclust
+	url = https://github.com/valentint/tclust
+	shallow = true
+	registered = true
+[submodule "trimcluster"]
+	path = trimcluster
+	url = https://github.com/cran/trimcluster
+	shallow = true
+	registered = true
