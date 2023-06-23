@@ -35,7 +35,7 @@
 	registered = true
 [submodule "rrcovNA"]
 	path = rrcovNA
-	url = https://github.com/cran/rrcovNA
+	url = https://github.com/valentint/rrcovna
 	shallow = true
 	registered = true
 [submodule "spls"]
