@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pcaPP"]
 	path = pcaPP
 	url = https://github.com/valentint/pcapp
-	shallow = true
-	registered = true
 [submodule "rda"]
 	path = rda
 	url = https://github.com/valentint/rda
-	shallow = true
-	registered = true
 [submodule "robust"]
 	path = robust
 	url = https://github.com/valentint/robust
-	shallow = true
-	registered = true
 [submodule "rrcov"]
 	path = rrcov
 	url = https://github.com/valentint/rrcov
-	shallow = true
-	registered = true
 [submodule "rrcov3way"]
 	path = rrcov3way
 	url = https://github.com/valentint/rrcov3way
-	shallow = true
-	registered = true
 [submodule "rrcovHD"]
 	path = rrcovHD
 	url = https://github.com/cran/rrcovHD
-	shallow = true
-	registered = true
 [submodule "rrcovNA"]
 	path = rrcovNA
 	url = https://github.com/valentint/rrcovna
-	shallow = true
-	registered = true
 [submodule "spls"]
 	path = spls
 	url = https://github.com/cran/spls
-	shallow = true
-	registered = true
 [submodule "tclust"]
 	path = tclust
 	url = https://github.com/valentint/tclust
-	shallow = true
-	registered = true
 [submodule "trimcluster"]
 	path = trimcluster
 	url = https://github.com/cran/trimcluster
-	shallow = true
-	registered = true
