@@ -19,7 +19,7 @@
 	url = https://github.com/valentint/rrcov3way
 [submodule "rrcovHD"]
 	path = rrcovHD
-	url = https://github.com/cran/rrcovHD
+	url = https://github.com/valentint/rrcovhd
 [submodule "rrcovNA"]
 	path = rrcovNA
 	url = https://github.com/valentint/rrcovna
